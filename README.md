@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salman7934
+- 👋 Hi, I’m salman
 - 👀 I’m interested in IBAC
 - 🌱 I’m currently learning BS Bussines Data Aanalytics
 - 💞️ I’m looking to collaborate on Data science releated project specially in data analytics
